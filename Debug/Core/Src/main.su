@@ -1,0 +1,6 @@
+../Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Core/Src/main.c:32:5:main	8	static
+../Core/Src/main.c:43:6:GPIO_config	4	static
+../Core/Src/main.c:50:6:interrupt_config	8	static
+../Core/Src/main.c:66:6:EXTI15_10_IRQHandler	4	static
